@@ -8,5 +8,5 @@ Most of the materials are based on our course on [Black Holes and Gravitational 
 
 ## Course editions
 
-- [ICTP School on Cosmology, S~ao Paulo 2025](https://www.ictp-saifr.org/ictptriestesc2025/)
+- [ICTP School on Cosmology, Sao Paulo 2025](https://www.ictp-saifr.org/ictptriestesc2025/)
 - [Essential Cosmology for the Next Generation, Playa del Carmen 2024](https://www.cosmologyonthebeach.com/2024/)
