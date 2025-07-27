@@ -1,4 +1,4 @@
-# A premiere on Gravitationl Wave Cosmology
+# A premiere on Gravitational Wave Cosmology
 
 Gravitational waves from compact binary coalescences are unique cosmic messengers. This repository contains materials for a course at the level of advanced undergraduate and graduate students with a background in general relativity. 
 
